@@ -1,5 +1,5 @@
 week 1 ALGO
-Week 2 C programming
+Week 
 week 
 week
 week 
